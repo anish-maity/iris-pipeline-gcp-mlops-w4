@@ -1,0 +1,4 @@
+/model
+/metrics.csv
+venv/
+dvc-gcs-key.json
